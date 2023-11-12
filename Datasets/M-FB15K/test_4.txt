@@ -1,0 +1,2 @@
+medicine*medical_trial	m.01664_	m.0d19y2	m.02zsn	m.05fkf
+medicine*medical_trial	m.01664_	m.0d19y2	m.02zsn	m.06yxd
