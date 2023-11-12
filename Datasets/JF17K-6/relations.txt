@@ -1,0 +1,2 @@
+0	education.education
+1	user.ajain.default_domain.admission_requirements
